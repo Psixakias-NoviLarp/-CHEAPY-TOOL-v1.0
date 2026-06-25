@@ -1,0 +1,14 @@
+{
+  "exposed_files": [
+    "/.env", "/.git/config", "/.gitignore", "/config.php", "/config.json",
+    "/wp-config.php", "/admin/", "/backup/", "/.htaccess", "/robots.txt",
+    "/sitemap.xml", "/crossdomain.xml", "/phpinfo.php", "/info.php",
+    "/database.yml", "/dump.sql", "/backup.sql", "/db.sql", "/.aws/credentials",
+    "/.ssh/id_rsa", "/.ssh/id_rsa.pub", "/composer.json", "/package.json",
+    "/web.config", "/.DS_Store", "/server-status", "/.svn/entries"
+  ],
+  "exposed_directory_listing": [
+    "/images/", "/css/", "/js/", "/assets/", "/uploads/", "/backup/",
+    "/admin/", "/includes/", "/logs/", "/tmp/", "/downloads/", "/files/"
+  ]
+}

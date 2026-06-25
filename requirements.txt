@@ -1,0 +1,8 @@
+# Cheapy Tool v1.0 — Requirements
+# by psixakias.7 | discord.gg/cheapymarket
+
+rich>=13.0.0
+colorama>=0.4.6
+psutil>=5.9.0
+requests>=2.28.0
+windows-curses>=2.3.0

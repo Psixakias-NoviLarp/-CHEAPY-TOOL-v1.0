@@ -1,0 +1,8 @@
+{
+  "SQL": ["sql", "mysql", "syntax.*?error", "unclosed quotation mark", "odbc", "driver", "microsoft.*?error", "error in your sql", "supplied argument is not a valid mysql", "warning: mysql", "ora-[0-9]{5}", "postgresql.*?error", "pg_query"],
+  "XSS": ["<script>", "onerror=", "onload=", "javascript:"],
+  "SSTI": ["49", "7777777", "config", "self._TemplateReference__context"],
+  "XXE": ["root", "file://", "ENTITY"],
+  "LDAP": ["ldap", "exception", "error"],
+  "XPath": ["xpath", "exception"]
+}
