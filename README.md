@@ -69,7 +69,7 @@ Only use on systems you own or have permission to test.
 - Discord User: **psixakias.7**
 - Discord: **discord.gg/27pF4tEXmZ**
 - Telegram: **t.me/+T4LuUTkIiuA4ODc8**
-- 
+
 ## ⭐ Support
 If you like this tool, leave a **star** on GitHub!
 Join the Discord for updates: **discord.gg/cheapymarket**
