@@ -72,7 +72,7 @@ Only use on systems you own or have permission to test.
 
 ## ⭐ Support
 If you like this tool, leave a **star** on GitHub!
-Join the Discord for updates: **discord.gg/cheapymarket**
+Join the Discord for updates: **discord.gg/27pF4tEXmZ**
 
 ## 📜 License
 MIT License — free to use, modify and distribute.
