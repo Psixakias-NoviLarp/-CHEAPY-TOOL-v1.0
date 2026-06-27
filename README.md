@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.txt" alt="Cheapy Tool"/>
+  <img src="https://media.discordapp.net/attachments/1517145928174276679/1520551782495944734/Screenshot_2.png?ex=6a419bb3&is=6a404a33&hm=f6468fd8424e02bfd836fd700eed5e72ed952cdf85b1a034d5a0cff9037a2173&=&format=webp&quality=lossless&width=550&height=290" alt="Cheapy Tool"/>
 </p>
 
 <h1 align="center">⚡ Cheapy Tool v1.0 ⚡</h1>
